@@ -102,9 +102,11 @@ WCF、JQuery
 
 
 
-3、![提醒用户领取钥匙](https://img-blog.csdnimg.cn/22bd8ccb063542d28a0c568c8a85e5e7.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA546L5qKm5p2wLg==,size_19,color_FFFFFF,t_70,g_se,x_16#pic_center)
+3、提醒用户领取钥匙
 
 
+
+![提醒用户领取钥匙](https://img-blog.csdnimg.cn/22bd8ccb063542d28a0c568c8a85e5e7.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA546L5qKm5p2wLg==,size_19,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
 当用户申请完会议室后，在会议前30分钟会提醒用户领取钥匙。
 
@@ -555,3 +557,6 @@ PRIMARY KEY (\`id\`) USING BTREE
 
 
 ) ENGINE=InnoDB AUTO\_INCREMENT=8 DEFAULT CHARSET=utf8 ROW\_FORMAT=COMPACT COMMENT='基本数据配置表';
+
+
+
